@@ -1,7 +1,7 @@
 class RepoGetter{
     constructor(name){
-        this.client_id = '3ed08bf3def1411626e9';
-        this.client_secret = '3af67041cb3a04c975ef647038fecbd7a16c15b9';
+        this.client_id = 'mycliend_id';
+        this.client_secret = 'myclient_secfet';
         this.repo_count = 5;
         this.repo_display = 'created: asc';
     }
